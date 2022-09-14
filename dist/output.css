@@ -623,6 +623,10 @@ video {
   max-width: 0%;
 }
 
+.max-w-\[10\%\] {
+  max-width: 10%;
+}
+
 .basis-4\/5 {
   flex-basis: 80%;
 }
