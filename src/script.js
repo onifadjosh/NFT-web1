@@ -52,6 +52,6 @@ document.addEventListener("DOMContentLoaded", () => {
        }
        slides[slideIndex-1].style.display = "flex";  
        dots[slideIndex-1].className += " active2";
-       setTimeout(showSlides, 5000); // Change slide every 5 seconds
+       setTimeout(showSlides, 2000); // Change slide every 2 seconds
      }
     

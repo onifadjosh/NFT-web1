@@ -83,9 +83,9 @@
     transition: background-color 0.6s ease;
   }
 
-  .active2 {
+  /* .active2 {
     background-color: #a1d283;
-  }
+  } */
   
   /* Fading animation */
   .fade {
