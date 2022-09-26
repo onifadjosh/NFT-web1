@@ -6,7 +6,7 @@ module.exports = {
       fontFamily: {
        
         'display': ['Rubik'],
-        'about': ['Comic Neue']
+        'about': ['"Comic Neue"']
           
       },
 
